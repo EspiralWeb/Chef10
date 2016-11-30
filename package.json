@@ -1,0 +1,20 @@
+{
+  "name": "ChefDez",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Melquisedeque",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "consign": "^0.1.2",
+    "decrypt": "0.0.1",
+    "ejs": "^2.5.3",
+    "express": "^4.14.0",
+    "express-validator": "^2.21.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
